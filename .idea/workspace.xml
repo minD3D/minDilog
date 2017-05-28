@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52c91832-e92f-4cfb-ad9e-fe1691b5040c" name="Default" comment="" />
+    <list default="true" id="52c91832-e92f-4cfb-ad9e-fe1691b5040c" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +60,7 @@
       <file leaf-file-name="edit.html.erb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="-203">
               <caret line="260" column="8" lean-forward="false" selection-start-line="260" selection-start-column="8" selection-end-line="260" selection-end-column="8" />
               <folding />
             </state>
@@ -540,6 +542,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="SearchEverywhereHistoryKey" value="user.rb&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/app/models/user.rb&#10;devise.r&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/config/initializers/devise.rb&#10;gem&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/Gemfile&#10;session&#9;null&#9;null&#10;routes&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/config/routes.rb&#10;contro&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/app/controllers/application_controller.rb&#10;map.js&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/app/assets/javascripts/maps.js&#10;no&#9;FILE&#9;file:///home/mind/RubymineProjects/MinDilog/app/assets/stylesheets/css/assets/normalize.css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TODOS" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -751,12 +754,12 @@
       <option name="presentableId" value="Default" />
       <updated>1495953157570</updated>
       <workItem from="1495953158920" duration="264000" />
-      <workItem from="1495953551159" duration="7629000" />
+      <workItem from="1495953551159" duration="7936000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7893000" />
+    <option name="totallyTimeSpent" value="8200000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="994" y="24" width="926" height="1056" extended-state="4" />
@@ -1194,7 +1197,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="-203">
           <caret line="260" column="8" lean-forward="false" selection-start-line="260" selection-start-column="8" selection-end-line="260" selection-end-column="8" />
           <folding />
         </state>
